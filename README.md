@@ -523,5 +523,3 @@ AI tools (Amazon Q Developer / GitHub Copilot) were used during development.
 Built as a Full-Stack Intern Assignment · Django + React · SQLite · APScheduler
 
 </div>
-#   F l o w f o r g e - A g i l e - p r o j e c t - M a n a g e m e n t - t o o l  
- 
