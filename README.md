@@ -14,6 +14,8 @@ Hierarchical work tracking · Role-based access · Kanban board · Background jo
 
 [![▶ Watch Demo](https://img.shields.io/badge/▶%20Watch_Demo-VEED.IO-6B4FBB?style=for-the-badge&logo=vimeo&logoColor=white)](https://www.veed.io/view/87c4417e-e120-4cd6-8941-cd07f2557acf?source=editor&panel=share)
 
+🎬 **Demo:** https://www.veed.io/view/87c4417e-e120-4cd6-8941-cd07f2557acf?source=editor&panel=share
+
 ---
 
 ## 📋 Table of Contents
