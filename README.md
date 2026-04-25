@@ -1,5 +1,3 @@
-<div align="center">
-
 # ⚡ FlowForge
 
 ### Agile Project Management for Small Teams
@@ -14,7 +12,7 @@
 A full-stack agile project management tool built for small teams (3–10 users).  
 Hierarchical work tracking · Role-based access · Kanban board · Background jobs · In-app notifications
 
-</div>
+[![▶ Watch Demo](https://img.shields.io/badge/▶%20Watch_Demo-VEED.IO-6B4FBB?style=for-the-badge&logo=vimeo&logoColor=white)](https://www.veed.io/view/87c4417e-e120-4cd6-8941-cd07f2557acf?source=editor&panel=share)
 
 ---
 
@@ -518,8 +516,5 @@ AI tools (Amazon Q Developer / GitHub Copilot) were used during development.
 
 ---
 
-<div align="center">
-
 Built as a Full-Stack Intern Assignment · Django + React · SQLite · APScheduler
 
-</div>
